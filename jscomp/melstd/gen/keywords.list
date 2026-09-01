@@ -88,6 +88,7 @@ CSSPositionTryDescriptors
 CSSPositionTryRule
 CSSPositionValue
 CSSPropertyRule
+CSSPseudoElement
 CSSRotate
 CSSRule
 CSSRuleList
@@ -194,6 +195,7 @@ Float32Array
 Float64Array
 FocusEvent
 FontFace
+FontFaceSet
 FontFaceSetLoadEvent
 FormData
 FormDataEvent
@@ -286,6 +288,7 @@ HTMLTitleElement
 HTMLTrackElement
 HTMLUListElement
 HTMLUnknownElement
+HTMLUserMediaElement
 HTMLVideoElement
 HashChangeEvent
 Headers
@@ -322,6 +325,7 @@ Int16Array
 Int32Array
 Int8Array
 IntegrityViolationReportBody
+InteractionContentfulPaint
 InterestEvent
 IntersectionObserver
 IntersectionObserverEntry
@@ -387,6 +391,7 @@ Node
 NodeFilter
 NodeIterator
 NodeList
+NodeRange
 NotRestoredReasonDetails
 NotRestoredReasons
 Notification
@@ -397,6 +402,7 @@ OfflineAudioCompletionEvent
 OfflineAudioContext
 OffscreenCanvas
 OffscreenCanvasRenderingContext2D
+OpaqueRange
 Option
 Origin
 OscillatorNode
@@ -424,12 +430,14 @@ PerformancePaintTiming
 PerformanceResourceTiming
 PerformanceScriptTiming
 PerformanceServerTiming
+PerformanceSoftNavigation
 PerformanceTiming
 PerformanceTimingConfidence
 PeriodicSyncManager
 PeriodicWave
 PermissionStatus
 Permissions
+PermissionsPolicy
 PictureInPictureEvent
 PictureInPictureWindow
 Plugin
@@ -719,6 +727,7 @@ WebGLUniformLocation
 WebGLVertexArrayObject
 WebKitCSSMatrix
 WebKitMutationObserver
+WebMCPEvent
 WebSocket
 WebSocketError
 WebSocketStream
